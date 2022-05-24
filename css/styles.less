@@ -1,0 +1,84 @@
+* {
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Create three equal columns that floats next to each other */
+  .column {
+	float: left;
+	width: 33.33%;
+	padding: 10px;
+	height: 200px; /* Should be removed. Only for demonstration */
+	border:1px solid red;
+	border-radius: 25px;
+	margin:1px;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+	content: "";
+	display: table;
+	clear: both;
+  }
+  body {
+	background: #555;
+  }
+  
+  .content {
+	max-width: 800px;
+	margin: auto;
+	background: white;
+	padding: 10px;
+  }
+  #event_details{
+	display:flex;
+	margin:2px;
+	flex-wrap: wrap;
+	justify-content: space-around;
+  }
+  .event-content{
+	border: 1px solid #e1eaee;
+	border-radius: 12px;
+	width:225px;
+	height: 300px;
+	margin: 20px 8.5px;
+	position: relative;
+	max-width: 225px;
+	text-align:center;
+}
+  .event-content-virtual{
+	  border: 1px solid #e1eaee;
+	  border-radius: 12px;
+	  width:225px;
+	  height: 300px;
+	  margin: 20px 8.5px;
+	  position: relative;
+	  max-width: 225px;
+	  text-align:center;
+  }
+  .event-content-on-campus{
+	border: 1px solid #e1eaee;
+	border-radius: 12px;
+	width:225px;
+	height: 300px;
+	margin: 20px 8.5px;
+	position: relative;
+	max-width: 225px;
+	text-align:center;
+  }
+  .text-block {
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+	background-color: black;
+	color: white;
+	padding-left: 20px;
+	padding-right: 20px;
+  }
+  .btn-primary{
+	background-color: #D10000;
+  }
+  .btn-primary{
+	padding:6px 54px;
+	border-radius:15px;
+  }

@@ -1,0 +1,44 @@
+[
+    {
+      "EventName": "Study business at EU Business School",
+      "EventInstitution": "EU Business School (Barcelona Campus)",
+      "EventLocation": "Virtual",
+      "EventDate": "15 May 2022",
+      "EventImage": "https://fau-res.cloudinary.com/image/upload/w_350,c_scale/common/bespoke-pages/custom-pages/bpid7582/img20211221176.jpg"
+    },
+    {
+      "EventName": "Postgraduate Event",
+      "EventInstitution": "University of Central Lancashire",
+      "EventLocation": "On campus",
+      "EventDate": "16 May 2022",
+      "EventImage": "https://fau-res.cloudinary.com/image/upload/w_350,c_scale/common/bespoke-pages/custom-pages/bpid5897/img2020211574.jpg"
+    },
+    {
+      "EventName": "Durham University Postgraduate Open Day",
+      "EventInstitution": "Durham University",
+      "EventLocation": "On campus",
+      "EventDate": "17 May 2022",
+      "EventImage": "https://fau-res.cloudinary.com/image/upload/w_350,c_scale/common/bespoke-pages/custom-pages/bpid7735/img2022214290.jpg"
+    },
+    {
+      "EventName": "University of Birmingham - Postgraduate Open Day",
+      "EventInstitution": "University of Birmingham",
+      "EventLocation": "On campus",
+      "EventDate": "19 May 2022",
+      "EventImage": "https://fau-res.cloudinary.com/image/upload/w_350,c_scale/common/bespoke-pages/custom-pages/bpid7795/img202232219.jpg"
+    },
+    {
+      "EventName": "University of Bristol Postgraduate Taught March Open Afternoons",
+      "EventInstitution": "University of Bristol",
+      "EventLocation": "On campus",
+      "EventDate": "20 May 2022",
+      "EventImage": "https://fau-res.cloudinary.com/image/upload/w_350,c_scale/common/bespoke-pages/custom-pages/bpid7736/img2022211865.jpg"
+    },
+    {
+      "EventName": "Begin your postgraduate journey with Swansea University",
+      "EventInstitution": "Swansea University",
+      "EventLocation": "Virtual",
+      "EventDate": "21 May 2022",
+      "EventImage": "https://fau-res.cloudinary.com/image/upload/w_350,c_scale/common/bespoke-pages/custom-pages/bpid7405/img20211028407.jpg"
+    }
+  ]
